@@ -19,7 +19,12 @@ My goal is to become a highly skilled Software Engineer capable of building inno
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,laravel,nodejs,mysql,firebase,git,github,vscode" />
 </p>
 --
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassan20254&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan20254&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 ## 🏆 Certifications
 
 - IBM Web Development Fundamentals
