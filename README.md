@@ -14,7 +14,11 @@ My goal is to become a highly skilled Software Engineer capable of building inno
 ---
 
 ## 🚀 Tech Stack
+## 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,laravel,nodejs,mysql,firebase,git,github,vscode" />
+</p>
 ### Frontend
 - HTML5
 - CSS3
