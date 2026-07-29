@@ -21,25 +21,7 @@ My goal is to become a highly skilled Software Engineer capable of building inno
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hassan20254/Hassan20254/main/baner.png" alt="Hassan Salah Mahmoud Banner" width="100%">
 </p>
-# Hi, I'm Hassan Salah Mahmoud 👋
-
-## 💻 About Me
-
-I'm a passionate Full Stack Web Developer with a strong interest in Software Engineering, Artificial Intelligence, and modern web technologies.
-
-I enjoy building real-world web applications, learning new technologies, and continuously improving my programming and problem-solving skills through practical projects and professional certifications.
-
-My goal is to become a highly skilled Software Engineer capable of building innovative, scalable, and impactful software solutions.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,laravel,nodejs,mysql,firebase,git,github,vscode" />
-</p>
-
----
+--
 
 ## 🏆 Certifications
 
