@@ -32,11 +32,6 @@ My goal is to become a highly skilled Software Engineer capable of building inno
 <img src="https://streak-stats.demolab.com?user=Hassan20254&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan20254&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
 
 ## 🏆 Certifications
 
