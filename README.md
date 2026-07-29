@@ -25,6 +25,16 @@ My goal is to become a highly skilled Software Engineer capable of building inno
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassan20254&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan20254&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Hassan20254&theme=github-dark&hide_border=true"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan20254&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 ## 🏆 Certifications
 
 - IBM Web Development Fundamentals
