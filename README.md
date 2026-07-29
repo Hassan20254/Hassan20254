@@ -18,9 +18,6 @@ My goal is to become a highly skilled Software Engineer capable of building inno
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,laravel,nodejs,mysql,firebase,git,github,vscode" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hassan20254/Hassan20254/main/baner.png" alt="Hassan Salah Mahmoud Banner" width="100%">
-</p>
 --
 
 ## 🏆 Certifications
